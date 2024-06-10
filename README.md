@@ -1,6 +1,5 @@
 <h3>💻 About Me </h3>
-👋 Olá! Sou o xyz Gabriel, um dev Python, uso Flask e Django. Além disso, tenho interesse em desenvolvimento de jogos e estou sempre explorando novas tecnologias e ferramentas para criar experiências divertidas e envolventes. Estou aberto a desafios interessantes e oportunidades de aprendizado.
-  
+👋 Olá! Sou o xyz Gabriel, um dev por curiosidade uso Python, e de framework uso Flask e Django. Além disso, de vez em quando entro na godot para fazer uns games 2D. 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
