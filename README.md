@@ -1,5 +1,5 @@
 <h3>💻 About Me </h3>
-👋 Olá! Sou o xyz Gabriel, um dev por curiosidade uso Python, e de framework uso Flask e Django. Além disso, de vez em quando entro na godot para fazer uns games 2D. 
+👋 Olá! Sou o Gabriel, um dev por curiosidade uso Python e frameworks como Flask e Django. Além disso, de vez em quando entro na godot para fazer uns games 2D. 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -21,4 +21,4 @@
  
 </div><br/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzgabriel&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgabrielsales&hide_progress=true&theme=dark)
