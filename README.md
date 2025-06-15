@@ -1,5 +1,5 @@
 <h3>💻 About Me </h3>
-👋 Olá! Sou o Gabriel, um dev por curiosidade uso Python e frameworks como Flask e Django. Além disso, de vez em quando entro na godot para fazer uns games 2D. 
+👋 Olá! Sou o Gabriel, um dev Python, uso frameworks como Flask e Django. Além disso, de vez em quando entro na godot para fazer uns games 2D. 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
