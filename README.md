@@ -1,6 +1,5 @@
 <h3>💻 About Me </h3>
-👋 Olá! Sou o Gabriel, um dev Python, uso frameworks como Flask e Django. Além disso, de vez em quando entro na godot para fazer uns games 2D. 
-
+👋 Olá! Sou Gabriel, desenvolvedor Python com foco em back-end e experiência nos frameworks Flask e Django. Tenho interesse em automação, APIs e desenvolvimento de jogos 2D na Godot. Busco evoluir constantemente em arquitetura de software e boas práticas de programação.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=dwonatagabriel&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)-->
@@ -15,7 +14,7 @@
  <img align="center" alt="Badge"  style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 
  <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/><br><br>
+ <!-- <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/><br><br>-->
  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
 
  
